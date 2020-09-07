@@ -2,8 +2,8 @@ body {
   margin: 0 auto;
 }
 .container {
-  width: 100vh;
-  min-height: 800px;
+  width: 80vw;
+  height: 80vh;
   margin: auto;
   background-color: black;
   display: grid;
